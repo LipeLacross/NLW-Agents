@@ -14,6 +14,8 @@ Plataforma de perguntas e respostas ao vivo com inteligência artificial, desenv
 
 ### 📸 Exemplo Visual do Projeto
 
+<div align="center"> <img src="https://github.com/user-attachments/assets/98f39725-fc46-4eed-88ef-9557d6491345" alt="Screenshot da aplicação NLW Agents" width="80%" style="margin: 16px 0; border-radius: 10px;"> </div>
+
 ## ✔️ Técnicas e Tecnologias Utilizadas
 
 - **Frontend**
